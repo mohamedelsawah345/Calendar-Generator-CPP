@@ -1,5 +1,5 @@
 ﻿
-// طباعه النتيجه ل السنه كلها.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
